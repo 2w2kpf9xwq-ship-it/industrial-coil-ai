@@ -16,8 +16,9 @@ This project includes:
 ## Project roadmap
 
 - [x] Repository initialization
-- [] Domain analysis
-- [] Process modelling
+- [x] Domain analysis
+- [x] Process modelling
+- [ ] Process relationships and assumptions
 - [] Synthetic dataset generation
 - [] Exploratory Data Analysis
 - [] Machine Lerning models
@@ -27,3 +28,5 @@ This project includes:
 
 - 2026-07-31
     - Initial project structure
+- 2026-08-27
+    - Domain analysis and process variables modelling completed
