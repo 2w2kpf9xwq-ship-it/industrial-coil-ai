@@ -21,7 +21,7 @@ This project includes:
 - [ ] Process relationships and assumptions
 - [] Synthetic dataset generation
 - [] Exploratory Data Analysis
-- [] Machine Lerning models
+- [] Machine Learning models
 - [] Explainability
 
 ## Development history
