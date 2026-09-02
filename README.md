@@ -18,7 +18,7 @@ This project includes:
 - [x] Repository initialization
 - [x] Domain analysis
 - [x] Process modelling
-- [ ] Process relationships and assumptions
+- [x] Process relationships and assumptions
 - [] Synthetic dataset generation
 - [] Exploratory Data Analysis
 - [] Machine Learning models
@@ -30,3 +30,5 @@ This project includes:
     - Initial project structure
 - 2026-08-27
     - Domain analysis and process variables modelling completed
+- 2026-09-02
+    - Process relationships analysis completed  
