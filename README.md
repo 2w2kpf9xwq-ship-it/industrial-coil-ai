@@ -31,4 +31,5 @@ This project includes:
 - 2026-08-27
     - Domain analysis and process variables modelling completed
 - 2026-09-02
-    - Process relationships analysis completed  
+    - Process relationships analysis completed
+    - Synthetic data generation started  
