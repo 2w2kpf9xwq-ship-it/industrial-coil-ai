@@ -19,6 +19,7 @@ This project includes:
 - [x] Domain analysis
 - [x] Process modelling
 - [x] Process relationships and assumptions
+- [ ] Electric displacement and resistivity section
 - [] Synthetic dataset generation
 - [] Exploratory Data Analysis
 - [] Machine Learning models
@@ -32,4 +33,6 @@ This project includes:
     - Domain analysis and process variables modelling completed
 - 2026-09-02
     - Process relationships analysis completed
-    - Synthetic data generation started  
+    - Synthetic data generation started
+- 2026-09-04
+    - Electric displacement further investigation  
