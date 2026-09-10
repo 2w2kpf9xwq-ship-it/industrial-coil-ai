@@ -37,4 +37,9 @@ This project includes:
 - 2026-09-04
     - Electric displacement further investigation
 - 2026-09-07
-    - Resistivity further analysis    
+    - Resistivity further analysis
+- 2026-09-10
+    - Variable modelling: number of turns
+    - Other important facts about coil manufacturing to be considered
+    - Deepening: Wheeler's empirical formulas for inductance
+    - A first attempt to calculate the number of turns      
