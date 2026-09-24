@@ -45,4 +45,6 @@ This project includes:
     - A first attempt to calculate the number of turns
 - 2026-09-23
     - A synthetic coil DataFrame of 1000 samples has been generated.
-    - Why the number of turns becomes very large?        
+    - Why the number of turns becomes very large?
+- 2026-09-24
+    - Code refactoring: coil_generator.py          
