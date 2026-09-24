@@ -42,4 +42,7 @@ This project includes:
     - Variable modelling: number of turns
     - Other important facts about coil manufacturing to be considered
     - Deepening: Wheeler's empirical formulas for inductance
-    - A first attempt to calculate the number of turns      
+    - A first attempt to calculate the number of turns
+- 2026-09-23
+    - A synthetic coil DataFrame of 1000 samples has been generated.
+    - Why the number of turns becomes very large?        
